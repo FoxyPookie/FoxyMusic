@@ -1,5 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:DB2777,100:FBCFE8&height=220&section=header&text=FOXY%20MUSIC&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=YOUR%20COMMUNITY.%20YOUR%20MUSIC.&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Foxy Music"/><br/><img src="https://img.shields.io/badge/♡-FOXY%20MUSIC-DB2777?style=for-the-badge&labelColor=1F1020" alt="Foxy Music"/>
-<img src="https://img.shields.io/badge/PLATFORM-TELEGRAM-EC4899?style=for-the-badge&labelColor=1F1020" alt="Telegram"/>୨ৎ Music sounds better together. ♡
+<img src="https://img.shields.io/badge/PLATFORM-TELEGRAM-EC4899?style=for-the-badge&labelColor=1F1020" alt="Telegram"/>
+  ୨ৎ Music sounds better together. ♡
 
 A Telegram music bot for your favourite communities.
 
