@@ -5,10 +5,6 @@ A Telegram music bot for your favourite communities.
 
 <br/><a href="https://heroku.com/deploy?template=https://github.com/FoxyPookie/FoxyMusic"><img src="https://img.shields.io/badge/🚀_DEPLOY_TO_HEROKU-9333EA?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy to Heroku"/></a>
 
-<a href="https://t.me/FoxryChat"><img src="https://img.shields.io/badge/♡_SUPPORT-EC4899?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support"/></a>
-
-<a href="https://t.me/FoxryHQ"><img src="https://img.shields.io/badge/✦_UPDATES-BE185D?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Updates"/></a>
-
 <br/><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:831843,50:EC4899,100:FBCFE8" width="85%" alt="Divider"/></div>♡ 01 — About Foxy
 
 Meet Foxy Music, your music companion for Telegram communities.
