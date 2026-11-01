@@ -1,0 +1,25 @@
+from FoxyMusic.core.bot import Alone
+from FoxyMusic.core.dir import dirr
+from FoxyMusic.core.userbot import Userbot
+from FoxyMusic.misc import dbb, heroku
+
+from .logging import LOGGER
+
+dirr()
+dbb()
+heroku()
+
+app = Alone()
+userbot = Userbot()
+
+
+from .platforms import (Apple, Carbon, Resso, Soundcloud, Spotify, Telegram,
+                        Youtube)
+
+Apple = Apple.AppleAPI()
+Carbon = Carbon.CarbonAPI()
+SoundCloud = Soundcloud.SoundAPI()
+Spotify = Spotify.SpotifyAPI()
+Resso = Resso.RessoAPI()
+Telegram = Telegram.TeleAPI()
+YouTube = Youtube.YouTubeAPI()
