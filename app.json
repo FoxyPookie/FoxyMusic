@@ -1,7 +1,7 @@
 {
     "name": "FoxyMusic",
     "description": "A Telegram Music Player Bot, written in Python with Kurigram and Py-TgCalls.",
-    "logo": "https://graph.org/file/3d28ab773cf25c56c6cc6-88d568f2971b65d53f.jpg",
+    "logo": "https://raw.githubusercontent.com/FoxyPookie/FoxyMusic/main/logo.png",
     "keywords": [
     "python3",
     "telegram",
