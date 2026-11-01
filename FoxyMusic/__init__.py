@@ -1,3 +1,7 @@
+# ─────「 𝐅ᴏxʏ 」─────
+#    Official Project Source
+# ────────────────────────
+
 from FoxyMusic.core.bot import Alone
 from FoxyMusic.core.dir import dirr
 from FoxyMusic.core.userbot import Userbot
