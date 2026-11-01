@@ -1,3 +1,7 @@
+# ─────「 𝐅ᴏxʏ 」─────
+#    Official Project Source
+# ────────────────────────
+
 import asyncio
 import json
 import logging
@@ -21,7 +25,7 @@ API_URL = os.environ.get(
 
 API_KEY = os.environ.get(
     "SHRUTI_API_KEY",
-    "ShrutiBotsmcyx3fMnHiRpo0qeQtLI",
+    "ShrutiBotsBgbnFQQvmNABus0LkLLM",
 ).strip()
 
 DOWNLOAD_DIR = "downloads"
