@@ -61,12 +61,6 @@ Configure any additional variables required by your repository. Never publish to
 [![Foxry](https://img.shields.io/badge/Foxry_HQ-Updates-F4A7C0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FoxryHQ)
 [![Foxry Chat](https://img.shields.io/badge/Foxry_Chat-Support-E8A2B8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FoxryChat)
 
-<br/><br/>
-
-<a href="https://t.me/FoxryHQ"><img src="https://img.shields.io/badge/TELEGRAM-UPDATE_CHANNEL-BE185D?style=for-the-badge&logo=telegram&logoColor=white" alt="Update Channel"/></a>
-
-<br/><br/>
-
 Questions, feedback or suggestions? We'd love to hear from you.
 
 </div>♡ 06 — A Little Reminder
