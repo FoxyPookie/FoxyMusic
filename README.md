@@ -54,9 +54,12 @@ Variable| Purpose
 
 Configure any additional variables required by your repository. Never publish tokens, session strings or database credentials.
 
-♡ 05 — Join Our Community
+### ୨୧ my little corner
 
-<div align="center"><a href="https://t.me/FoxryChat"><img src="https://img.shields.io/badge/TELEGRAM-SUPPORT_CHAT-EC4899?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Chat"/></a>
+*where code meets creativity.* ✨
+
+[![Foxry](https://img.shields.io/badge/Foxry_HQ-Updates-F4A7C0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FoxryHQ)
+[![Foxry Chat](https://img.shields.io/badge/Foxry_Chat-Support-E8A2B8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FoxryChat)
 
 <br/><br/>
 
