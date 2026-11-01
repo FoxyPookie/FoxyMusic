@@ -32,11 +32,6 @@ Assistant account support| Optional music caching
 
 <br/>Code with passion. Music with love. ♡
 
-</div>♡ 04 — Deploy Your Own
-
-Want to run Foxy Music for your own community?
-
-<div align="center"><a href="https://heroku.com/deploy?template=https://github.com/FoxyPookie/FoxyMusic"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy Foxy Music"/></a>
 
 </div>Quick Setup
 
