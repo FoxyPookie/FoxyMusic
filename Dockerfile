@@ -1,15 +1,20 @@
-FROM nikolaik/python-nodejs:python3.10-nodejs20
+FROM python:3.11-slim
 
-RUN curl -L https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz \
-    -o ffmpeg.tar.xz && \
-    tar -xJf ffmpeg.tar.xz && \
-    mv ffmpeg-*-static/ffmpeg /usr/local/bin/ && \
-    mv ffmpeg-*-static/ffprobe /usr/local/bin/ && \
-    rm -rf ffmpeg*
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
 
-COPY . /app/
-WORKDIR /app/
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    ffmpeg \
+    git \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
 
-RUN pip3 install --no-cache-dir -r requirements.txt
+WORKDIR /app
 
-CMD ["bash", "start"]
+COPY requirements.txt .
+RUN pip install --no-cache-dir --upgrade pip
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+CMD ["python", "-m", "FoxyMusic"]
