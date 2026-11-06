@@ -3,7 +3,7 @@
   
 <br/><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:831843,50:EC4899,100:FBCFE8" width="85%" alt="Divider"/></div>♡ 01 — About Foxy
 
-Meet Foxy Music, your music companion for Telegram communities.
+Meet Foxy Music, your music bot for Telegram communities.
 
 Designed around a simple idea: make listening together easier, with convenient playback controls and a smooth group music experience.
 
